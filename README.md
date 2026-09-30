@@ -145,7 +145,7 @@ The best parameters obtained from the grid search were then used to train the fi
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook / Kaggle Notebook
+- Kaggle Notebook
 
 ---
 
